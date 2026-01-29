@@ -31,5 +31,5 @@ This project was developed using Agile principles:
 
 ## Deployment
 Live Application URL: (http://localhost:8501/#nasas-astronomy-picture-of-the-day)
-## GitHub Repository
-Repository Link: [PASTE YOUR GITHUB LINK HERE]
+## GitHub Repository 
+Github Repository URL: (https://github.com/RyanAmador17/StreamlitApp/tree/main)
