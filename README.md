@@ -1,5 +1,4 @@
 # StreamlitApp
-# Biscayne Bay Water Quality Dashboard
 
 ## Project Description
 This project is an interactive data visualization dashboard built using Streamlit and Plotly. 
